@@ -1,6 +1,6 @@
 # Deploy Kubernetes Load Balancer Service with Terraform || GSP233
 
-## Solution [here](https://youtu.be/1tGWBAlw8zk)
+## Solution [here](https://youtu.be/xnKyLnHcBXU)
 
 ### Run the following Commands in the Cloud shell
 
